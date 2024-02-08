@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding 
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on ...
-- 📫 Linkdin
+- 📫 Linkdin - https://www.linkedin.com/in/devesh-kumar-gola-b5279a282/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Advising is my best hobby
 
