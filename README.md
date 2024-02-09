@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 Linkdin - https://www.linkedin.com/in/devesh-kumar-gola-b5279a282/
-- 😄 Pronouns: ...
+- 😄 HackerRank - https://www.hackerrank.com/profile/deveshkumar84231
 - ⚡ Fun fact: Advising is my best hobby
 
 <!---
