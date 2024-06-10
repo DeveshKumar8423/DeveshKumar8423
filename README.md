@@ -5,6 +5,7 @@
 - 📫 Linkdin - https://www.linkedin.com/in/devesh-kumar-gola-b5279a282/
 - 😄 HackerRank - https://www.hackerrank.com/profile/deveshkumar84231
 - 😄 Leetcode - https://leetcode.com/DeveshKumar8423/
+- 👨‍💻 CodeStudio - https://www.naukri.com/code360/profile/devesh8423
 - ⚡ Fun fact: Advising is my best hobby
 
 
