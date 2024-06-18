@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DeveshKumarGola
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Python and ML
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently doing DSA
+- 💞️ I’m looking to collaborate 
 - 📫 Linkdin - https://www.linkedin.com/in/devesh-kumar-gola-b5279a282/
 - 😄 HackerRank - https://www.hackerrank.com/profile/deveshkumar84231
 - 😄 Leetcode - https://leetcode.com/DeveshKumar8423/
