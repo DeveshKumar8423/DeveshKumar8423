@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/devesh-kumar-gola-b5279a282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh-kumar-gola-b5279a282/" height="30" width="40" /></a>
+<a href="https://x.com/DeveshKuma8423" target="blank"><img align="center" src="https://img.freepik.com/free-vector/new-2023-twitter-logo-x-icon-design_1017-45418.jpg?size=338&ext=jpg&ga=GA1.1.1141335507.1718841600&semt=ais_user" alt="DeveshKuma8423" height="40" width="40" /></a>
 <a href="https://kaggle.com/deveshkumargola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deveshkumargola" height="30" width="40" /></a>
 <a href="https://instagram.com/devesh_kumar_gola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devesh_kumar_gola" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/deveshkumar84231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveshkumar84231" height="30" width="40" /></a>
