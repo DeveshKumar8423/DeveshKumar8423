@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshkumar8423&label=Profile%20views&color=0e75b6&style=flat" alt="deveshkumar8423" /> </p>
 
-- 🌱 I’m currently learning **DSA and Data Science**
+- 🌱 I’m currently learning **Competitive Programming and Artificial Intelligence**
 
 - 💬 Ask me about **Counselling**
 
