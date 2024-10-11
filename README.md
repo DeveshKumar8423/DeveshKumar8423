@@ -5,19 +5,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshkumar8423" alt="deveshkumar8423" /></a> </p>
 
-•⁠  ⁠🔭 I’m currently working on *Resume Screening using Machine Learning*
+•⁠  ⁠🔭 I’m currently working on **Resume Screening using Machine Learning**
 
-•⁠  ⁠🌱 I’m currently learning *Competitive Programming*
+•⁠  ⁠🌱 I’m currently learning **Competitive Programming**
 
-•⁠  ⁠👯 I’m collaborating on *Hacktoberfest*
+•⁠  ⁠👯 I’m collaborating on **Hacktoberfest**
 
-•⁠  ⁠💬 Ask me about *Counselling*
+•⁠  ⁠💬 Ask me about **Counselling**
 
 •⁠  ⁠📫 How to reach me *deveshkumar8423gola@gmail.com*
 
-•⁠  ⁠📄 Know about myself [https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22474820/MjI0NzQ4MjA=.pdf](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22474820/MjI0NzQ4MjA=.pdf)
+•⁠  ⁠📄 Resume:  [https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22474820/MjI0NzQ4MjA=.pdf](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22474820/MjI0NzQ4MjA=.pdf)
 
-•⁠  ⁠⚡ Fun fact *I think I like technology*
+•⁠  ⁠⚡ Fun fact:  *I think I like technology*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
