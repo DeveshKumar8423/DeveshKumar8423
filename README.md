@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshkumar8423&label=Profile%20views&color=0e75b6&style=flat" alt="deveshkumar8423" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deveshkumar8423" alt="deveshkumar8423" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=deveshkumar8423&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 •⁠  ⁠🔭 I’m currently working on **Resume Screening using Machine Learning**
 
@@ -14,8 +14,6 @@
 •⁠  ⁠💬 Ask me about **Counselling**
 
 •⁠  ⁠📫 How to reach me *deveshkumar8423gola@gmail.com*
-
-•⁠  ⁠📄 Resume:  [https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22474820/MjI0NzQ4MjA=.pdf](https://hackerrank-resume.s3.us-east-1.amazonaws.com/uploads/22474820/MjI0NzQ4MjA=.pdf)
 
 •⁠  ⁠⚡ Fun fact:  *I think I like technology*
 
