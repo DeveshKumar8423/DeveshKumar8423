@@ -19,10 +19,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devesh kumar gola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh kumar gola" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/devesh-kumar-gola-758608327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh kumar gola" height="30" width="40" /></a>
 <a href="https://kaggle.com/deveshkumargola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deveshkumargola" height="30" width="40" /></a>
 <a href="https://instagram.com/devesh_kumar_gola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devesh_kumar_gola" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deveshkumar84321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveshkumar84321" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/deveshkumar84231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveshkumar84321" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/devesh8423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devesh8423" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deveshkumar8423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deveshkumar8423" height="30" width="40" /></a>
 </p>
