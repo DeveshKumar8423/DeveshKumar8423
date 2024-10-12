@@ -25,6 +25,12 @@
 <a href="https://www.hackerrank.com/profile/deveshkumar84231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveshkumar84321" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/devesh8423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devesh8423" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deveshkumar8423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deveshkumar8423" height="30" width="40" /></a>
+<a href="https://x.com/DeveshKuma8423" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
+</a>
+<a href="https://www.naukri.com/code360/profile/devesh8423" target="_blank">
+  <img align="center" src="https://avatars.githubusercontent.com/u/88321750?s=280&v=4" alt="code 360" height="40" style="width:auto;" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
