@@ -17,6 +17,11 @@
 
 •⁠  ⁠⚡ Fun fact:  *I think I like technology*
 
+<h3 align="left">Coding Portfolio:</h3>
+<p align="left"> 
+<a href="https://codolio.com/profile/devesh" target="blank"><img align="center" src="https://codolio.com/codolio_assets/gif-owl-transparent.GIF" alt="devesh kumar gola" height="50" width="50" /></a>
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/devesh-kumar-gola-758608327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devesh kumar gola" height="30" width="40" /></a>
