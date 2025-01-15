@@ -53,4 +53,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=deveshkumar8423&show_icons=true&locale=en&layout=compact&theme=dark" alt="deveshkumar8423" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=deveshkumar8423&theme=dark)](https://git.io/streak-stats)
