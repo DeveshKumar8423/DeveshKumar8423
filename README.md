@@ -5,11 +5,11 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=deveshkumar8423&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-•⁠  ⁠🔭 I’m currently working on **Resume Screening using Machine Learning**
+•⁠  ⁠🔭 I’m currently working on **Prediction Models**
 
-•⁠  ⁠🌱 I’m currently learning **Competitive Programming**
+•⁠  ⁠🌱 I’m currently learning **Competitive Programming **
 
-•⁠  ⁠👯 I’m collaborating on **Hacktoberfest**
+•⁠  ⁠👯 I’m collaborating on **GitHub**
 
 •⁠  ⁠💬 Ask me about **Counselling**
 
