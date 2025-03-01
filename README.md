@@ -7,7 +7,7 @@
 
 •⁠  ⁠🔭 I’m currently working on **Prediction Models**
 
-•⁠  ⁠🌱 I’m currently learning **Competitive Programming **
+•⁠  ⁠🌱 I’m currently learning **Competitive Programming**
 
 •⁠  ⁠👯 I’m collaborating on **GitHub**
 
