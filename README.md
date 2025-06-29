@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devesh Kumar Gola</h1>
-<h3 align="center">An aspiring AI Engineer and Competitive Programmer</h3>
+<h3 align="center">An aspiring AI Engineer and Life Counsellor</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshkumar8423&label=Profile%20views&color=0e75b6&style=flat" alt="deveshkumar8423" /> </p>
 
