@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deveshkumar8423&label=Profile%20views&color=0e75b6&style=flat" alt="deveshkumar8423" /> </p>
 
-•⁠  ⁠🔭 I’m currently working on **Prediction Models**
+•⁠  ⁠🔭 I’m currently working on **Projects / Internships / Volunteerships**
 
-•⁠  ⁠🌱 I’m currently learning **Competitive Programming**
+•⁠  ⁠🌱 I’m currently practicing **DSA / AI / CS Fundamentals**
 
 •⁠  ⁠👯 I’m collaborating on **GitHub**
 
-•⁠  ⁠💬 Ask me about **Counselling**
+•⁠  ⁠💬 Ask me about **Counselling / Cold Emailing / AI**
 
 •⁠  ⁠📫 How to reach me *deveshkumar8423gola@gmail.com*
 
