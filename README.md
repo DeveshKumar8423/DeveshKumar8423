@@ -23,20 +23,18 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="https://peerlist.io/devesh8423" target="blank">
-  <img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/company-logo_200_200/0/1646835555233/peerlist_logo?e=2147483647&v=beta&t=BDkNItLoTzk-wReBiGgHqakmvc5iQnulzdCTPafcRMU" alt="peerlist" height="30" width="30" /></a>
-<a href="https://kaggle.com/deveshkumargola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="deveshkumargola" height="30" width="40" /></a>
-<a href="https://instagram.com/devesh_kumar_gola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devesh_kumar_gola" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/deveshkumar84231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deveshkumar84321" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/devesh8423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="devesh8423" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deveshkumar8423" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deveshkumar8423" height="30" width="40" /></a>
-<a href="https://x.com/DeveshKuma8423" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" />
-</a>
-<a href="https://www.naukri.com/code360/profile/devesh8423" target="_blank">
-  <img align="center" src="https://avatars.githubusercontent.com/u/88321750?s=280&v=4" alt="code 360" height="40" style="width:auto;" />
-</a>
+  <a href="https://peerlist.io/devesh8423" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/company-logo_200_200/0/1646835555233/peerlist_logo?e=2147483647&v=beta&t=BDkNItLoTzk-wReBiGgHqakmvc5iQnulzdCTPafcRMU" alt="peerlist" height="30" width="30"/></a>
+  <a href="https://www.linkedin.com/in/devesh-kumar-gola-450a0436b/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="30"/></a>
+  <a href="https://x.com/DeveshKuma8423" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40"/></a>
+  <a href="https://medial.app/user/devesh-kumar-gola-29e880cab28b0" target="_blank"><img src="https://startuparticle.com/wp-content/uploads/2025/02/medial-logo.png" alt="medial" height="30" width="30"/></a>
+  <a href="https://kaggle.com/deveshkumargola" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40"/></a>
+  <a href="https://instagram.com/devesh_kumar_gola" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40"/></a>
+  <a href="https://www.hackerrank.com/profile/deveshkumar84231" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40"/></a>
+  <a href="https://codeforces.com/profile/devesh8423" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40"/></a>
+  <a href="https://www.leetcode.com/deveshkumar8423" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/></a>
+  <a href="https://www.naukri.com/code360/profile/devesh8423" target="_blank"><img src="https://avatars.githubusercontent.com/u/88321750?s=280&v=4" alt="code360" height="30" width="30"/></a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
