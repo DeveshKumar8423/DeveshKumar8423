@@ -21,7 +21,6 @@
 </p>
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
   <a href="https://peerlist.io/devesh8423" target="_blank"><img src="https://media.licdn.com/dms/image/v2/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/company-logo_200_200/0/1646835555233/peerlist_logo?e=2147483647&v=beta&t=BDkNItLoTzk-wReBiGgHqakmvc5iQnulzdCTPafcRMU" alt="peerlist" height="30" width="30"/></a>
   <a href="https://www.linkedin.com/in/devesh-kumar-gola-450a0436b/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin" height="30" width="30"/></a>
@@ -33,6 +32,13 @@
   <a href="https://codeforces.com/profile/devesh8423" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces" height="30" width="40"/></a>
   <a href="https://www.leetcode.com/deveshkumar8423" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40"/></a>
   <a href="https://www.naukri.com/code360/profile/devesh8423" target="_blank"><img src="https://avatars.githubusercontent.com/u/88321750?s=280&v=4" alt="code360" height="30" width="30"/></a>
+</p>
+
+<h3 align="left">Articles:</h3>
+<p align="left">
+<a href="https://medium.com/@devesh8423" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="devesh8423" height="30" width="40" /></a>
+<a href="https://dev.to/devesh8423" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devesh8423" height="30" width="40" /></a>
+<a href="https://peerlist.io/devesh8423/articles" target="_blank"><img align="center" src="https://media.licdn.com/dms/image/v2/C4D0BAQGjCtiL8FcUcw/company-logo_200_200/company-logo_200_200/0/1646835555233/peerlist_logo?e=2147483647&v=beta&t=BDkNItLoTzk-wReBiGgHqakmvc5iQnulzdCTPafcRMU" alt="devesh8423" height="30" width="30" /></a>
 </p>
 
 
